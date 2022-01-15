@@ -15,4 +15,3 @@ Some certain amount of DAI will be deposited to my account.
 The DAI will be transferred from aave to my account.
 1. Get the ETH/DAI conversion rate
 2. The DAI token you can borrow depends on the available borrows you have in the AAVE protocol.
-3. 
